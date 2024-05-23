@@ -1,1 +1,1 @@
-<h1 align="left">Hi 👋, I'm Eli</h1>
+Hi, I'm **Eli**, a JavaScript developer who loves creating interactive music projects with Tone.js.
